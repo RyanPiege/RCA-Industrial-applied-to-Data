@@ -41,33 +41,6 @@ Faltava uma forma periódica e confiável de **acompanhar** se cada ação bloqu
 
 ---
 
-## Arquivos do projeto
-
-| Arquivo | Descrição |
-|---|---|
-| [`docs/RCA_ANALYTICS.pptx`]([docs/RCA_ANALYTICS.pptx)) | **Documento da análise de falhas (RCA).** Ficha de perda, objeto da análise, dados de rejeições, Pareto por equipamento/sistema (L1 e L2), árvores de falha (FTA) e planos de ação. |
-| [`docs/RCA_Cortadeiras_BI_Ryan_Lobato.pptx`](docs/RCA_Cortadeiras_BI_Ryan_Lobato.pptx) | **Apresentação do projeto de BI.** 11 slides, na identidade visual da Suzano: problema, Pareto, causas e plano de ação, arquitetura, modelo de dados, mapeamento causa-indicador, dashboard ilustrativo no Power BI, ciclo de atualização e encerramento. |
-
-**Como os dois se relacionam:** o PDF é a origem (o problema e o plano de ação); o PPTX é o desdobramento (como o acompanhamento foi estruturado em BI). Os valores do PPTX vêm do PDF.
-
-### Conteúdo do PPTX
-
-| Slide | Título |
-|---|---|
-| 1 | Capa |
-| 2 | O problema: ~320 h de rejeição nas cortadeiras em 2025 |
-| 3 | Pareto: caixas de fardos lideram em L1 e L2 |
-| 4 | Causas raiz (FTA) e plano de ação: 16 ações |
-| 5 | Arquitetura do BI: três fontes, camadas e Power BI |
-| 6 | Modelo de dados integrado (camada Gold) |
-| 7 | Da causa raiz ao indicador acompanhado |
-| 8 | O que o BI responde |
-| 9 | Dashboard ilustrativo (simulação de Power BI, fundo de papel celulose) |
-| 10 | Ciclo de atualização: a cada 8 horas |
-| 11 | Projeto concluído |
-
----
-
 ## Contexto: a análise de falhas (RCA)
 
 - **Escopo:** rejeições nas cortadeiras e no enfardamento, com base nas ocorrências do PGR+. Foram expurgadas as ocorrências externas à cortadeira e ao enfardamento (exceto variações de perfil da folha) e o corte de capas.
