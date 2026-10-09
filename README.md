@@ -45,7 +45,7 @@ Faltava uma forma periódica e confiável de **acompanhar** se cada ação bloqu
 
 | Arquivo | Descrição |
 |---|---|
-| [`docs/RCA_CORTADEIRAS_L1_E_L2_2025_21-08-25.pdf`](docs/RCA_CORTADEIRAS_L1_E_L2_2025_21-08-25.pdf) | **Documento da análise de falhas (RCA).** Ficha de perda, objeto da análise, dados de rejeições, Pareto por equipamento/sistema (L1 e L2), árvores de falha (FTA) e planos de ação. |
+| [`docs/RCA_ANALYTICS.pptx`]([docs/RCA_ANALYTICS.pptx)) | **Documento da análise de falhas (RCA).** Ficha de perda, objeto da análise, dados de rejeições, Pareto por equipamento/sistema (L1 e L2), árvores de falha (FTA) e planos de ação. |
 | [`docs/RCA_Cortadeiras_BI_Ryan_Lobato.pptx`](docs/RCA_Cortadeiras_BI_Ryan_Lobato.pptx) | **Apresentação do projeto de BI.** 11 slides, na identidade visual da Suzano: problema, Pareto, causas e plano de ação, arquitetura, modelo de dados, mapeamento causa-indicador, dashboard ilustrativo no Power BI, ciclo de atualização e encerramento. |
 
 **Como os dois se relacionam:** o PDF é a origem (o problema e o plano de ação); o PPTX é o desdobramento (como o acompanhamento foi estruturado em BI). Os valores do PPTX vêm do PDF.
