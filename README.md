@@ -254,7 +254,7 @@ rca-cortadeiras-bi/
 
 | Papel | Nome |
 |---|---|
-| BI, métricas e Power BI | **Ryan Lobato** (Inteligência de Negócios, alinhada com Confiabilidade e Processos) |
+| BI, métricas e Power BI | **Ryan Lobato** (Engenharia de Dados) |
 | Responsável pela análise de falhas (RCA) | Moacyr Angeli Junior |
 | Análise de falhas | Equipe multidisciplinar de Mecânica, Elétrica, Instrumentação e Operação |
 
